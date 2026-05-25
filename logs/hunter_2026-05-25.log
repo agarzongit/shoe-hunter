@@ -1,0 +1,27 @@
+2026-05-25 16:22:13,804  INFO     === Shoe Hunter run @ 2026-05-25 16:22:13.804644 ===
+2026-05-25 16:22:13,804  INFO     Price cap: $120.00   Good-deal threshold: $100.00
+2026-05-25 16:22:13,804  INFO     Searching: Brooks Adrenaline GTS
+2026-05-25 16:22:13,805  INFO       query: Brooks Adrenaline GTS mens 11.5 wide
+2026-05-25 16:22:16,450  INFO       query: Brooks Adrenaline GTS mens size 11.5 2E
+2026-05-25 16:22:19,033  INFO     Searching: Brooks Ghost
+2026-05-25 16:22:19,033  INFO       query: Brooks Ghost mens 11.5 wide
+2026-05-25 16:22:21,600  INFO       query: Brooks Ghost mens size 11.5 2E
+2026-05-25 16:22:24,162  INFO     Searching: Brooks Beast
+2026-05-25 16:22:24,162  INFO       query: Brooks Beast mens 11.5 wide
+2026-05-25 16:22:26,725  INFO       query: Brooks Beast mens size 11.5 2E
+2026-05-25 16:22:29,285  INFO     Searching: Brooks Glycerin GTS
+2026-05-25 16:22:29,285  INFO       query: Brooks Glycerin GTS mens 11.5 wide
+2026-05-25 16:22:31,848  INFO       query: Brooks Glycerin GTS mens size 11.5 2E
+2026-05-25 16:22:34,409  INFO     Searching: Hoka Gaviota
+2026-05-25 16:22:34,410  INFO       query: Hoka Gaviota mens 11.5 wide
+2026-05-25 16:22:36,967  INFO       query: Hoka Gaviota mens size 11.5 2E
+2026-05-25 16:22:39,539  INFO     Searching: Hoka Arahi
+2026-05-25 16:22:39,539  INFO       query: Hoka Arahi mens 11.5 wide
+2026-05-25 16:22:42,106  INFO       query: Hoka Arahi mens size 11.5 2E
+2026-05-25 16:22:44,671  INFO     Searching: Asics Gel-Kayano
+2026-05-25 16:22:44,671  INFO       query: Asics Gel-Kayano mens 11.5 wide
+2026-05-25 16:22:47,232  INFO       query: Asics Gel-Kayano mens size 11.5 2E
+2026-05-25 16:22:49,805  INFO     wrote 0 hits to /home/runner/work/shoe-hunter/shoe-hunter/results/shoe_hits_2026-05-25.xlsx
+2026-05-25 16:22:50,661  INFO     email sent to agarzon@gmail.com
+2026-05-25 16:22:50,661  INFO     === run complete ===
+
